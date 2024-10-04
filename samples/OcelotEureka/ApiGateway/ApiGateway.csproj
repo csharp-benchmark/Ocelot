@@ -16,7 +16,7 @@
 
   <ItemGroup>
     <PackageReference Include="Ocelot" Version="17.0.1" />
-    <PackageReference Include="Ocelot.Provider.Eureka" Version="17.0.1" />
+    <PackageReference Include="Ocelot.Provider.Eureka" Version="23.3.4" />
     <PackageReference Include="Ocelot.Provider.Polly" Version="17.0.1" />
   </ItemGroup>
 
